@@ -1,8 +1,22 @@
 body {
-	background: magenta;
+	/* background: magenta; */
 }
 
 .carousel {
 	max-width: 600px;
 	position: relative;
+}
+
+.carousel .carousel-item {
+	display: none;
+}
+
+.carousel .carousel-item-visible {
+	display: block;
+}
+
+.carousel .carousel-item img {
+	width: 100%;
+	max-width: 600px;
+	height: auto;
 }
