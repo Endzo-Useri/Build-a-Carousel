@@ -29,7 +29,8 @@ body {
 	top: 50%;
 }
 
-.carousel .carousel-actions button {
+#carousel-button-prev,
+#carousel-button-next {
 	border-radius: 50%;
 	background-color: #fff;
 	border: 0;
