@@ -7,11 +7,11 @@ body {
 	position: relative;
 }
 
-.carousel .carousel-item {
+.carousel-item {
 	display: none;
 }
 
-.carousel .carousel-item-visible {
+.carousel-item-visible {
 	display: block;
 }
 
