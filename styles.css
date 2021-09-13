@@ -15,7 +15,7 @@ body {
 	display: block;
 }
 
-.carousel .carousel-item img {
+.carousel-image {
 	width: 100%;
 	max-width: 600px;
 	height: auto;
