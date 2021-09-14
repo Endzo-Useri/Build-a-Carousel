@@ -1,10 +1,12 @@
 body {
 	/* background: magenta; */
+	margin: 0px;
 }
 
 .carousel {
 	max-width: 600px;
 	position: relative;
+	margin: 0 auto;
 }
 
 .carousel-item {
