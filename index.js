@@ -13,4 +13,4 @@ function moveToPrevSlide() {
 
 }
 
-console.log('totalSlides')
+console.log(totalSlides)
