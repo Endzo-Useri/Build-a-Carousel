@@ -10,5 +10,7 @@ function moveToNextSlide() {
 }
 
 function moveToPrevSlide() {
-	
+
 }
+
+console.log('totalSlides')
