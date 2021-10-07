@@ -9,16 +9,13 @@ body {
 	margin: 0 auto;
 }
 
-.carousel-item {
+.carousel-item,
+.carousel-item-hidden {
 	display: none;
 }
 
 .carousel-item-visible {
 	display: block;
-}
-
-.carousel-item-hidden {
-	display: none;
 }
 
 .carousel-image {

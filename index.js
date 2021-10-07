@@ -18,3 +18,7 @@ function moveToNextSlide() {
 function moveToPrevSlide() {
 
 }
+
+function hideAllSlides() {
+	for (let )
+}
