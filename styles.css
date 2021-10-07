@@ -1,6 +1,6 @@
 body {
 	background: #333;
-	margin: 0px;
+	margin-top: 200px;
 }
 
 .carousel {
@@ -16,7 +16,7 @@ body {
 
 .carousel-item-visible {
 	display: block;
-	animation: fadeVisibiliy 0.5s;
+	animation: fadeVisibility 0.5s;
 }
 
 .carousel-image {
