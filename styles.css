@@ -16,6 +16,7 @@ body {
 
 .carousel-item-visible {
 	display: block;
+	animation: fadeVisibiliy 0.5s;
 }
 
 .carousel-image {
@@ -51,4 +52,14 @@ body {
 
 #carousel-button-next {
 	margin-right: 1.25em;
+}
+
+@keyframes fadeVisibility {
+	0% {
+		opacity: 0;
+	}
+
+	100% {
+		opacity: 1;
+	}
 }
